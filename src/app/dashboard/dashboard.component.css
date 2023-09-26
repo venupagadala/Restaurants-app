@@ -43,6 +43,26 @@
 }
 
 
+.restaurants-and-services
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+.now-available-image
+{
+    width: 100px;
+}
+.services-title
+{
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    font-weight: 600;
+    color: green;
+}
 /* table styles */
 /* dashboard.component.css */
 .table {
@@ -56,7 +76,7 @@
   }
   
   .table thead th {
-    background-color: #343a40; /* Header background color */
+    background-color: green; /* Header background color */
     color: #ffffff; /* Header text color */
   }
   

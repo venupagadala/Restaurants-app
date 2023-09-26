@@ -1,20 +1,20 @@
 {
   "posts": [
     {
-      "name": "efwa",
-      "email": "rfsf",
-      "address": "esfsdf",
-      "service": "sefsf",
-      "mobile": "ess",
-      "id": 4
+      "name": "ram",
+      "email": "venugopalreddypagadala@gmail.com",
+      "address": "woodstock",
+      "service": "fast food",
+      "mobile": "1234567890",
+      "id": 1
     },
     {
-      "name": "reddy",
-      "email": "sam@gmail.com",
-      "address": "woodstock",
-      "service": "usa",
+      "name": "Bombay lounge",
+      "email": "bombay@gmail.com",
+      "address": "johns creek",
+      "service": "buffet and dine in ",
       "mobile": "1234567890",
-      "id": 6
+      "id": 2
     }
   ],
   "comments": [],
