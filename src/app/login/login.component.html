@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row justify-content-center py-4">
+        <div class="app-title">
+            <strong class="title">Testy Service App <span class="version">V2.0</span></strong>
+            <div class="membership">Login Here!...</div>
+        </div>
+      <div class="col-md-6 form bg-primary rounded">
+        <form  class="mt-4" [formGroup]="loginForm" (ngSubmit)="login()">
+          <div class="form-group mb-3">
+            <label class="mb-1 text-white" for="email">Email:</label>
+            <input type="email" id="email" formControlName="email" class="form-control" placeholder="Enter your email">
+          </div>
+          <div class="form-group mb-3">
+            <label class="mb-1 text-white" for="address">Password:</label>
+            <input type="text" id="address" formControlName="password" class="form-control" placeholder="Enter your password">
+          </div>
+          <button type="submit" class="btn btn-secondary">Submit</button>
+        </form>
+        <div class="already-signup" routerLink="/signup">not registered?, Click here to register</div>
+      </div>
+    </div>
+  </div>
+  

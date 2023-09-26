@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "name": "efwa",
+      "email": "rfsf",
+      "address": "esfsdf",
+      "service": "sefsf",
+      "mobile": "ess",
+      "id": 4
+    },
+    {
+      "name": "reddy",
+      "email": "sam@gmail.com",
+      "address": "woodstock",
+      "service": "usa",
+      "mobile": "1234567890",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "signup": {
+    "name": "venu",
+    "email": "venugopalreddypagadala@gmail.com",
+    "address": "woodstock",
+    "password": "1234"
+  }
+}
