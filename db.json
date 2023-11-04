@@ -1,18 +1,18 @@
 {
   "posts": [
     {
-      "name": "ram",
+      "name": "venu",
       "email": "venugopalreddypagadala@gmail.com",
       "address": "woodstock",
-      "service": "fast food",
+      "service": "atlanta",
       "mobile": "1234567890",
       "id": 1
     },
     {
-      "name": "Bombay lounge",
-      "email": "bombay@gmail.com",
-      "address": "johns creek",
-      "service": "buffet and dine in ",
+      "name": "reddy",
+      "email": "reddy@123.com",
+      "address": "atlanta",
+      "service": "food",
       "mobile": "1234567890",
       "id": 2
     }
